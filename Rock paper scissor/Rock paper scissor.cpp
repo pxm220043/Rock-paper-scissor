@@ -64,7 +64,3 @@ int main()
 
         return 0;
 }
-
-//modify
-//modify2
-//modify3
